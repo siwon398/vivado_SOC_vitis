@@ -1,0 +1,15 @@
+ip_list
+
+sw_led_axi_gpio_0_0
+sw_led_axi_uartlite_0_0
+sw_led_clk_wiz_0_0
+sw_led_dlmb_bram_if_cntlr_0
+sw_led_dlmb_v10_0
+sw_led_ilmb_bram_if_cntlr_0
+sw_led_ilmb_v10_0
+sw_led_lmb_bram_0
+sw_led_mdm_1_0
+sw_led_microblaze_0_0
+sw_led_microblaze_0_axi_periph_0
+sw_led_rst_clk_wiz_0_100M_0
+sw_led_xbar_0

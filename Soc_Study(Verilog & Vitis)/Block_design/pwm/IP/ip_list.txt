@@ -1,0 +1,15 @@
+ip_list
+
+pwm_axi_uartlite_0_0
+pwm_clk_wiz_0_0
+pwm_dlmb_bram_if_cntlr_0
+pwm_dlmb_v10_0
+pwm_ilmb_bram_if_cntlr_0
+pwm_ilmb_v10_0
+pwm_lmb_bram_0
+pwm_mdm_1_0
+pwm_microblaze_0_0
+pwm_microblaze_0_axi_periph_0
+pwm_myip_pwm_0_0
+pwm_rst_clk_wiz_0_100M_0
+pwm_xbar_0

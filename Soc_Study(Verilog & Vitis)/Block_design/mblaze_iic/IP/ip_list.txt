@@ -1,0 +1,16 @@
+ip_list
+
+mblaze_iic_axi_iic_0_0
+mblaze_iic_axi_uartlite_0_0
+mblaze_iic_clk_wiz_0_0
+mblaze_iic_dlmb_bram_if_cntlr_0
+mblaze_iic_dlmb_v10_0
+mblaze_iic_ilmb_bram_if_cntlr_0
+mblaze_iic_ilmb_v10_0
+mblaze_iic_lmb_bram_0
+mblaze_iic_mdm_1_0
+mblaze_iic_microblaze_0_0
+mblaze_iic_microblaze_0_axi_periph_0
+mblaze_iic_myip_dht11_0_3
+mblaze_iic_rst_clk_wiz_0_100M_0
+mblaze_iic_xbar_0

@@ -1,0 +1,16 @@
+ip_list
+
+mblaze_fnd_axi_gpio_0_0
+mblaze_fnd_axi_gpio_1_0
+mblaze_fnd_axi_uartlite_0_0
+mblaze_fnd_clk_wiz_0_0
+mblaze_fnd_dlmb_bram_if_cntlr_0
+mblaze_fnd_dlmb_v10_0
+mblaze_fnd_ilmb_bram_if_cntlr_0
+mblaze_fnd_ilmb_v10_0
+mblaze_fnd_lmb_bram_0
+mblaze_fnd_mdm_1_0
+mblaze_fnd_microblaze_0_0
+mblaze_fnd_microblaze_0_axi_periph_0
+mblaze_fnd_rst_clk_wiz_0_100M_0
+mblaze_fnd_xbar_0
